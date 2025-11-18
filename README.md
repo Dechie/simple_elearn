@@ -36,6 +36,7 @@ This application was written using the provider package. Since the app state nee
 
 The project follows a quite simple structure, which can be seen as follows:
 lib
+```
 ├── main.dart
 ├── models
 │   ├── course.dart
@@ -55,6 +56,7 @@ lib
     ├── part_item.dart
     ├── progress_bar.dart
     └── unit_tile.dart
+```
 
 - The `main.dart` file includes the root MyApp widget and also the integration of top level providers.
 - The `models` folder contains data classes for modelling our data
