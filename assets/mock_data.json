@@ -1,0 +1,94 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "title": "Physics",
+      "gradeLevel": "Grade 10",
+      "units": [
+        {
+          "id": "u1",
+          "title": "Mechanics",
+          "parts": [
+            {
+              "id": "p1",
+              "title": "Motion",
+              "isCompleted": false
+            },
+            {
+              "id": "p2",
+              "title": "Forces",
+              "isCompleted": false
+            }
+          ]
+        },
+        {
+          "id": "u2",
+          "title": "Energy",
+          "parts": [
+            {
+              "id": "p3",
+              "title": "Kinetic Energy",
+              "isCompleted": false
+            },
+            {
+              "id": "p4",
+              "title": "Potential Energy",
+              "isCompleted": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Mathematics",
+      "gradeLevel": "Grade 9",
+      "units": [
+        {
+          "id": "u3",
+          "title": "Algebra",
+          "parts": [
+            {
+              "id": "p5",
+              "title": "Linear Equations",
+              "isCompleted": false
+            },
+            {
+              "id": "p6",
+              "title": "Quadratic Equations",
+              "isCompleted": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Chemistry",
+      "gradeLevel": "Grade 11",
+      "units": [
+        {
+          "id": "u4",
+          "title": "Atomic Structure",
+          "parts": [
+            {
+              "id": "p7",
+              "title": "Electrons",
+              "isCompleted": false
+            },
+            {
+              "id": "p8",
+              "title": "Protons and Neutrons",
+              "isCompleted": false
+            },
+            {
+              "id": "p9",
+              "title": "Atomic Models",
+              "isCompleted": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
